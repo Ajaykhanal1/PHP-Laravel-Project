@@ -27,7 +27,7 @@ npm run dev
 php artisan serve
 <img width="1081" height="853" alt="image" src="https://github.com/user-attachments/assets/f985c696-272b-452e-8b5d-faf3e36c392f" />
 <img width="637" height="756" alt="image" src="https://github.com/user-attachments/assets/4b77f8b1-e59b-450b-a4c8-a0cdb1c29893" />
-Here’s the **clean, foolproof fix for Windows + Laravel + Tailwind + Vite**:
+## Here’s the **clean, foolproof fix for Windows + Laravel + Tailwind + Vite**:
 
 ---
 
