@@ -119,13 +119,11 @@ Make sure in `resources/views/welcome.blade.php` you have:
 
 ---
 
-If you want, I can make a **ready-to-use Laravel + Tailwind + Vite folder structure for Windows** that:
-
 * Works with `"type": "module"`
 * Has Tailwind ready
 * Avoids **all PostCSS / Vite errors**
 
-Then you just run:
+Then just run:
 
 ```bash
 npm install
